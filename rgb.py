@@ -69,6 +69,7 @@ class TestRGB(unittest.TestCase):
         plt.imshow(rgb_values)
         plt.axis('off')
         plt.show()
+        print()
 
 
 if __name__ == "__main__":
